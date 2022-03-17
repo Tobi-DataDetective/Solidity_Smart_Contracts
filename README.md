@@ -20,5 +20,5 @@ A simple smart contract to take in values and store the value on record.
 * A requirement is for the sender to have amount less than or equal to the amount intending to be sent.
 * Amount is deducted from the sender after sending
 * Amount is added to the recievers account i.e address.
-* 
-[coin minting smart contract here]()
+
+[coin minting smart contract here](https://github.com/Tobi-DataDetective/Solidity_Smart_Contracts/tree/main/coin_minting)
